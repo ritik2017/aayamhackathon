@@ -1,0 +1,16 @@
+html, body{
+	height:100%;
+	padding:0%;
+	margin:0%;
+}
+h1{
+	background-color:#0bd96b;
+	width:50%;
+	text-align:center;
+}
+h1:hover{
+	background-color:#08c43a;
+}
+#map {
+	height:100%;
+}

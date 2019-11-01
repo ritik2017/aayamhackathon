@@ -1,0 +1,11 @@
+body{
+	background-color:#3fc45c;
+}
+h2{
+	background-color:#d63131;
+	width:50%;
+	text-align:center;
+}
+h2:hover{
+	background-color:#ed3907;
+}

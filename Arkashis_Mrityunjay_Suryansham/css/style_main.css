@@ -1,0 +1,35 @@
+body{
+	background-color:#589ba8;
+}
+
+h2{
+	background-color:#0e59b5;
+	width:50%;
+	text-align:center;
+}
+h2:hover{
+	background-color:#0b1da1;
+}
+#div1{
+	top:100px;
+	position:relative;
+}
+#btn1{
+	background-color:#ba1806;
+	font-size:25px;
+}
+#btn1:hover{
+	background-color:#ed2009;
+	font-size:35px;
+}
+#btn2{
+	background-color:#059e0f;
+	font-size:25px;
+}
+#btn2:hover{
+	background-color:#0acc17;
+	font-size:35px;
+}
+p:hover{
+	font-size:30px;
+}
